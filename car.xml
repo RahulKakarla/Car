@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<cars>
+  <car id="1">
+    <make>Honda</make>
+    <model>Civic</model>
+  </car>
+  <car id="2">
+    <make>Honda</make>
+    <model>City</model>
+  </car>
+  <car id="3">
+    <make>Honda</make>
+    <model>CRV</model>
+  </car>
+</cars> 
